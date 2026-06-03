@@ -1,0 +1,27 @@
+{
+  "name": "real-time-support-platform",
+  "version": "1.0.0",
+  "description": "This README is your day-by-day execution guide for becoming stronger in full-stack JavaScript/TypeScript interviews through practical work.",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MeetAdalaja/real-time-support-platform.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MeetAdalaja/real-time-support-platform/issues"
+  },
+  "homepage": "https://github.com/MeetAdalaja/real-time-support-platform#readme",
+  "devDependencies": {
+    "@types/node": "^25.9.1",
+    "ts-node": "^10.9.2",
+    "tsx": "^4.22.4",
+    "typescript": "^6.0.3"
+  }
+}
