@@ -1,6 +1,6 @@
 export type TicketPriority = 'low' | 'medium' | 'high' | 'critical';
 
-export type TicketStatus = | "open" | "assigned" | "waiting_on_customer" | "escalated" | "resolved" | "closed";
+export type TicketStatus = "open" | "assigned" | "waiting_on_customer" | "escalated" | "resolved" | "closed";
 
 export type TicketCategory = "billing" | "technical" | "account" | "bug" | "feature_request" | "incident";
 
